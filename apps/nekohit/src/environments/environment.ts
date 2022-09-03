@@ -9,9 +9,9 @@ export const environment = {
       bneo: '0x48c40d4666f93408be1bef038b6722404d9a4c2a',
     },
     wcaContractHash: '0x1312460889ef976db3561e7688b077f09d5e98e0',
-    nodeUrl: 'https://neo3-mainnet.neoline.vip:443',
+    nodeUrl: 'https://n3seed1.ngd.network:10332',
     devFeeAddress: 'NWWpkYtqeUwgHfbFMZurmKei6T85JtA1HQ',
-    neotube: 'https://neo3.neotube.io/transaction/',
+    neotube: 'https://neotube.io/transaction/',
   },
   testnet: {
     tokens: {
@@ -22,8 +22,8 @@ export const environment = {
       bneo: '0x48c40d4666f93408be1bef038b6722404d9a4c2a',
     },
     wcaContractHash: '0x3d151c524c35ea5cd549323d98e782cfb7403951',
-    nodeUrl: 'https://neo3-testnet.neoline.vip:443',
+    nodeUrl: 'http://seed1t4.neo.org:10332',
     devFeeAddress: 'NSjnxcxV6qXGFLbo1vSAsSqRjBiyB6Qz7V',
-    neotube: 'https://neo3.testnet.neotube.io/transaction/',
+    neotube: 'https://n3t4.neotube.io/transaction/',
   },
 };
