@@ -23,7 +23,7 @@ export const environment = {
       bneo: '0x48c40d4666f93408be1bef038b6722404d9a4c2a',
     },
     wcaContractHash: '0x3d151c524c35ea5cd549323d98e782cfb7403951',
-    nodeUrl: 'http://seed1t4.neo.org:20332',
+    nodeUrl: 'http://seed1t4.neo.org:10332',
     devFeeAddress: 'NSjnxcxV6qXGFLbo1vSAsSqRjBiyB6Qz7V',
     neotube: 'https://n3t4.neotube.io/transaction/',
   },
